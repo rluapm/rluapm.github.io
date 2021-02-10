@@ -1,1 +1,3 @@
-# rluapm.github.io
+# LUP
+A lua package manager.
+
