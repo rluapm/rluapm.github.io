@@ -1,0 +1,23 @@
+.header {
+    align-content: flex-start;
+    text-align:center;
+    padding: 41.6vh;
+    margin: -30px;
+    background-color:rgb(76, 81, 153);
+    color:rgb(255, 255, 255);
+}
+
+.header h1 {
+    font-size: 40px;
+}
+
+.header h2 {
+    font-size: 15px;
+}
+.header a {
+    padding: 10px 20px 10px 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 1px solid rgb(99, 99, 99);
+    background-color: rgb(71, 35, 202);
+}
